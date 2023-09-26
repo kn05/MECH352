@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/home/gnuwsl/study/MECH352"
+    "cmake.sourceDirectory": "/home/gnu/study/MECH352/hw1",
+    "cmake.configureOnOpen": true
 }

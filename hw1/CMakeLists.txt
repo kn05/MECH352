@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.0)
-project(OpenGLProject)
+cmake_minimum_required(VERSION 3.5)
+project(hw1)
 
 # Find OpenGL package
 find_package(OpenGL REQUIRED)
@@ -11,7 +11,7 @@ include_directories(${CMAKE_SOURCE_DIR}/external/glut)          # Adjust the pat
 
 # Source files for your project
 set(SOURCES
-    my_1.c  # Replace with your source files
+    src/my_1.c  # Replace with your source files
 )
 
 # Link directories for GLEW and GLUT

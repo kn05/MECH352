@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.5)
 project(my_1)
 
 # Set the C compiler to MinGW (assuming you have it installed and in your PATH)
-set(CMAKE_C_COMPILER x86_64-w64-mingw32-gcc)
+# set(CMAKE_C_COMPILER x86_64-w64-mingw32-gcc)
 
 # Set the source files for your project
 set(SOURCES

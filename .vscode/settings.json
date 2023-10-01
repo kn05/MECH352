@@ -1,4 +1,8 @@
 {
-    "cmake.sourceDirectory": "/home/gnu/study/MECH352/my_1c",
+    "cmake.sourceDirectory": [
+        "/home/gnu/study/MECH352/helloworld",
+        "/home/gnu/study/MECH352/my_1c",
+        "/home/gnu/study/MECH352/hw1"
+    ],
     "cmake.configureOnOpen": true
 }

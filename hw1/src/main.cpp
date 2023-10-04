@@ -38,9 +38,9 @@ int main(int argc, char **argv) {
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
     glutInitWindowSize(250, 250);
     glutInitWindowPosition(100, 100);
-    glutCreateWindow("2021170691");
+    glutCreateWindow("2021170691 Jongmu Kim");
     init();
     glutDisplayFunc(display);
     glutMainLoop();
-    // return 0;   /* ANSI C requires main to return int. */
+    return 0;
 }
